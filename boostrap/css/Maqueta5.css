@@ -1,0 +1,36 @@
+#Logo{
+    background: linear-gradient(90deg, rgb(232, 237, 78) 0%, rgba(234,235,171,1) 50%, rgb(230, 158, 42) 100%);
+}
+    
+.Header{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #dfffa7;
+    color: rgb(0, 0, 0);
+}
+#Nothing{
+    background-color: #a8f425;
+}
+#Text{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: auto;
+    padding: auto;
+    color: #000000; 
+}
+#Body{
+    background-color: #909090;
+}
+#Footer{
+    background-color: #a8f425;
+}
+.Footer{
+    height: 200px;
+    width: 200px;
+}
+#af1{
+    height: 200px;
+    width: 200px;
+}
+#af2{
+    width: 900px;
+}
